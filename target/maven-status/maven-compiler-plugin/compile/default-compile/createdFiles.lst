@@ -1,0 +1,11 @@
+com/example/contacttodomail/Interfaces/IContacts.class
+com/example/contacttodomail/Repositories/ContactRepository.class
+com/example/contacttodomail/ContactTodoMailApplication.class
+com/example/contacttodomail/Repositories/TaskRepository.class
+com/example/contacttodomail/Services/ContactServices.class
+com/example/contacttodomail/DTO/Tasks.class
+com/example/contacttodomail/Controllers/ContactsController.class
+com/example/contacttodomail/Services/TaskService.class
+com/example/contacttodomail/DTO/Contact.class
+com/example/contacttodomail/Interfaces/ITasks.class
+com/example/contacttodomail/Controllers/TaskController.class
